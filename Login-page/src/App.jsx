@@ -15,7 +15,7 @@ function App() {
    </button>
    <button>
    <img src='/images/apple-logo.png' alt='apple'/>
-   Sign In With Apple 
+   Sign In With iphone
    </button>
    
     <hr></hr>
